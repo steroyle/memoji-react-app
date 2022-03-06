@@ -1,0 +1,9 @@
+.grid {
+  max-width: 520px;
+  margin: auto;
+  /* border: 1px solid #000; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

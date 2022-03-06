@@ -1,0 +1,16 @@
+.card {
+  background: #dbdbdb;
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+  font-size: 50px;
+  line-height: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+.card:hover {
+  cursor: pointer;
+}
